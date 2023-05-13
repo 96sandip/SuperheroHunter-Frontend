@@ -1,2 +1,2 @@
 # SuperheroHunter-Frontend
-link - superhero-hunterr.netlify.app
+link - https://superhero-hunterr.netlify.app
